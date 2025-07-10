@@ -1,0 +1,42 @@
+.card-custom {
+  height: 100%;
+}
+
+.card-yellow {
+  background-color: #f9b300;
+  border-radius: 5px 5px 0px 0px;
+  width: 85%;
+  height: 80%;
+  margin-left: 15%;
+  font-size:medium;
+}
+
+.card-blue {
+  background-color: #005bff;
+  border-radius: 5px 5px 0px 0px;
+  width: 85%;
+  height: 80%;
+}
+
+.footer-custom {
+  padding: 2rem;
+}
+
+.footer-yellow {
+  background-color: #fcd36a;
+  width: 85%;
+  border-radius: 0px 0px 5px 5px;
+  margin-left: 15%;
+}
+
+.footer-blue {
+  background-color: #816fe2;
+  width: 85%;
+  border-radius: 0px 0px 5px 5px;
+}
+
+img{
+    width: 50px;
+    border-radius: 50%;
+    background-color: white;
+}
