@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(72, 71, 71, 0.773)
+}
+
+.calculator {
+  width: 260px;
+  background-color: #2d2d2d;
+}
+
+#equal-btn{
+  padding: 40px 0px 40px 0px;
+}
+
+.calculator .btn {
+  font-size: 1.2rem;
+  padding: 0.75rem;
+  border-radius: 5px;
+}
+
+.display {
+  min-height: 100px;
+  padding-right: 10px;
+}
